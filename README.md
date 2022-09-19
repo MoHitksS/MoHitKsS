@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mohit Sharma</h1>
-<h3 align="left">I am a versatilist and Full Stack Web Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</h3>
+<h3 align="left">I am a Versatilist and Full Stack Web Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</h3>
 
 
 - 🔭 I’m currently working on **Something New**
