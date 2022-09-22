@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://mohitkss.github.io/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/MoHitksS)
 
 - 📝 I regularly write articles on [Apps4download](https://www.apps4download.com/)
 
