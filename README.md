@@ -1,11 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mohit Sharma</h1>
-<h3 align="left">Passionate Full Stack Web Developer
-with skilled in the MERN stack with
-2000+ hours of Coding. Seeking to
-contribute my skills and expertise in
-the company growth. Ability to work
-in team environment, emphasizing
-team goals..</h3>
+<h3 align="left">Passionate Full Stack Web Developer with 3 months of experience and certification in backend and frontend in the MERN stack. Seeking to contribute my skills and expertise in the company growth. Ability to work in team environment, emphasizing team goals.</h3>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" width="360px"/>
 
